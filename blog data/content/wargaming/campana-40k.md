@@ -9,7 +9,7 @@ tags = ['40K']
 
 A continuación encontrarás unas breves reglas para poder jugar una campaña de dos o más jugadores, usando Warhammer 40,000 (3ª edición). Estas reglas son modificación de "40K in a Flash", publicadas originalmente en la página americana de Games Workshop. Con esta campaña, los jugadores de disputarán el control de territorios y verán sus ejércitos expandirse y ganar experiencia a medida que luchen batallas.
 
-![art](https://senoca.github.io/assets/eldarvstyranids.jpg)
+![art](https://senoca.github.io/imgs/eldarvstyranids.jpg)
 
 Reclutar Ejércitos
 ------------------
@@ -72,7 +72,7 @@ En una campaña, a menudo es una buena idea dejar a los Personajes Especiales en
 
 Si los jugadores desean incluir Personajes Especiales, solo se pueden incluir si el jugador posee suficiente territorio para calificar para el personaje especial y el equipo que lleva.
 
-![art](https://senoca.github.io/assets/Leman-Russ.jpg)
+![art](https://senoca.github.io/imgs/Leman-Russ.jpg)
 
 Luchando Batallas
 -----------------
